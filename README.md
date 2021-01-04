@@ -1,2 +1,2 @@
-# Association-Rules
+# Product-Recommendation
 Market Basket Analysis
