@@ -1,2 +1,2 @@
-# Data-Science
-Customer-Churn
+# Association-Rules
+Market Basket Analysis
